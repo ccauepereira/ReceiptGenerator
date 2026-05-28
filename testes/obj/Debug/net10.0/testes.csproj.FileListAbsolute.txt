@@ -1,0 +1,14 @@
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.AssemblyInfoInputs.cache
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.AssemblyInfo.cs
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.csproj.CoreCompileInputs.cache
+/home/cauepereira/RiderProjects/atividades/testes/bin/Debug/net10.0/testes
+/home/cauepereira/RiderProjects/atividades/testes/bin/Debug/net10.0/testes.deps.json
+/home/cauepereira/RiderProjects/atividades/testes/bin/Debug/net10.0/testes.runtimeconfig.json
+/home/cauepereira/RiderProjects/atividades/testes/bin/Debug/net10.0/testes.dll
+/home/cauepereira/RiderProjects/atividades/testes/bin/Debug/net10.0/testes.pdb
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.dll
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/refint/testes.dll
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.pdb
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/testes.genruntimeconfig.cache
+/home/cauepereira/RiderProjects/atividades/testes/obj/Debug/net10.0/ref/testes.dll
